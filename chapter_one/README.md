@@ -1,4 +1,4 @@
-#CHAPTER ONE- GETTING STARTED
+# CHAPTER ONE- GETTING STARTED
 
 Welcome to Chapter One of our Rust learning journey! In this chapter, we will cover the basics of getting started with Rust programming language, including:
 -  Installation of rust
